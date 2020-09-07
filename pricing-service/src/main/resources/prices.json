@@ -1,0 +1,401 @@
+[{
+  "currency": "Rupiah",
+  "price": 15902.27,
+  "vehicleId": 1
+}, {
+  "currency": "Euro",
+  "price": 3751.92,
+  "vehicleId": 2
+}, {
+  "currency": "Leone",
+  "price": 2706.83,
+  "vehicleId": 3
+}, {
+  "currency": "Cordoba",
+  "price": 18503.27,
+  "vehicleId": 4
+}, {
+  "currency": "Dollar",
+  "price": 14431.91,
+  "vehicleId": 5
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 12212.97,
+  "vehicleId": 6
+}, {
+  "currency": "Peso",
+  "price": 6025.2,
+  "vehicleId": 7
+}, {
+  "currency": "Shilling",
+  "price": 2059.96,
+  "vehicleId": 8
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 11602.47,
+  "vehicleId": 9
+}, {
+  "currency": "Krona",
+  "price": 10868.19,
+  "vehicleId": 10
+}, {
+  "currency": "Real",
+  "price": 18583.11,
+  "vehicleId": 11
+}, {
+  "currency": "Euro",
+  "price": 9634.15,
+  "vehicleId": 12
+}, {
+  "currency": "Krona",
+  "price": 18722.78,
+  "vehicleId": 13
+}, {
+  "currency": "Baht",
+  "price": 14021.69,
+  "vehicleId": 14
+}, {
+  "currency": "Sol",
+  "price": 13781.91,
+  "vehicleId": 15
+}, {
+  "currency": "Dinar",
+  "price": 18897.48,
+  "vehicleId": 16
+}, {
+  "currency": "Krona",
+  "price": 4688.65,
+  "vehicleId": 17
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 2860.77,
+  "vehicleId": 18
+}, {
+  "currency": "Zloty",
+  "price": 11178.54,
+  "vehicleId": 19
+}, {
+  "currency": "Real",
+  "price": 9931.32,
+  "vehicleId": 20
+}, {
+  "currency": "Ariary",
+  "price": 7614.55,
+  "vehicleId": 21
+}, {
+  "currency": "Colon",
+  "price": 8219.1,
+  "vehicleId": 22
+}, {
+  "currency": "Peso",
+  "price": 8892.6,
+  "vehicleId": 23
+}, {
+  "currency": "Dollar",
+  "price": 5113.27,
+  "vehicleId": 24
+}, {
+  "currency": "Rupiah",
+  "price": 6648.69,
+  "vehicleId": 25
+}, {
+  "currency": "Baht",
+  "price": 3616.79,
+  "vehicleId": 26
+}, {
+  "currency": "Lek",
+  "price": 19734.54,
+  "vehicleId": 27
+}, {
+  "currency": "Shekel",
+  "price": 2035.47,
+  "vehicleId": 28
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 12083.82,
+  "vehicleId": 29
+}, {
+  "currency": "Birr",
+  "price": 13101.02,
+  "vehicleId": 30
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 14353.25,
+  "vehicleId": 31
+}, {
+  "currency": "Zloty",
+  "price": 13007.16,
+  "vehicleId": 32
+}, {
+  "currency": "Zloty",
+  "price": 17884.2,
+  "vehicleId": 33
+}, {
+  "currency": "Peso",
+  "price": 12087.99,
+  "vehicleId": 34
+}, {
+  "currency": "Rupiah",
+  "price": 2679.69,
+  "vehicleId": 35
+}, {
+  "currency": "Pound",
+  "price": 5926.71,
+  "vehicleId": 36
+}, {
+  "currency": "Leone",
+  "price": 5129.66,
+  "vehicleId": 37
+}, {
+  "currency": "Euro",
+  "price": 8055.48,
+  "vehicleId": 38
+}, {
+  "currency": "Euro",
+  "price": 18894.36,
+  "vehicleId": 39
+}, {
+  "currency": "Rupiah",
+  "price": 15602.8,
+  "vehicleId": 40
+}, {
+  "currency": "Hryvnia",
+  "price": 15306.24,
+  "vehicleId": 41
+}, {
+  "currency": "Euro",
+  "price": 7555.67,
+  "vehicleId": 42
+}, {
+  "currency": "Ruble",
+  "price": 18845.78,
+  "vehicleId": 43
+}, {
+  "currency": "Koruna",
+  "price": 7885.89,
+  "vehicleId": 44
+}, {
+  "currency": "Rupiah",
+  "price": 11660.69,
+  "vehicleId": 45
+}, {
+  "currency": "Zloty",
+  "price": 18340.66,
+  "vehicleId": 46
+}, {
+  "currency": "Rupiah",
+  "price": 4735.38,
+  "vehicleId": 47
+}, {
+  "currency": "Naira",
+  "price": 17913.97,
+  "vehicleId": 48
+}, {
+  "currency": "Rupee",
+  "price": 7256.03,
+  "vehicleId": 49
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 18997.92,
+  "vehicleId": 50
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 18330.31,
+  "vehicleId": 51
+}, {
+  "currency": "Rupiah",
+  "price": 13070.25,
+  "vehicleId": 52
+}, {
+  "currency": "Bolivar",
+  "price": 3883.39,
+  "vehicleId": 53
+}, {
+  "currency": "Franc",
+  "price": 12082.31,
+  "vehicleId": 54
+}, {
+  "currency": "Peso",
+  "price": 15724.25,
+  "vehicleId": 55
+}, {
+  "currency": "Euro",
+  "price": 11854.59,
+  "vehicleId": 56
+}, {
+  "currency": "Tenge",
+  "price": 3118.58,
+  "vehicleId": 57
+}, {
+  "currency": "Real",
+  "price": 10808.8,
+  "vehicleId": 58
+}, {
+  "currency": "Peso",
+  "price": 19738.73,
+  "vehicleId": 59
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 7243.22,
+  "vehicleId": 60
+}, {
+  "currency": "Peso",
+  "price": 17209.32,
+  "vehicleId": 61
+}, {
+  "currency": "Hryvnia",
+  "price": 9681.99,
+  "vehicleId": 62
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 10451.11,
+  "vehicleId": 63
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 4542.42,
+  "vehicleId": 64
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 16862.84,
+  "vehicleId": 65
+}, {
+  "currency": "Euro",
+  "price": 16266.21,
+  "vehicleId": 66
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 13159.78,
+  "vehicleId": 67
+}, {
+  "currency": "Ruble",
+  "price": 18346.51,
+  "vehicleId": 68
+}, {
+  "currency": "Krona",
+  "price": 16225.99,
+  "vehicleId": 69
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 8458.95,
+  "vehicleId": 70
+}, {
+  "currency": "Peso",
+  "price": 9686.11,
+  "vehicleId": 71
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 13943.14,
+  "vehicleId": 72
+}, {
+  "currency": "Dollar",
+  "price": 9126.43,
+  "vehicleId": 73
+}, {
+  "currency": "Won",
+  "price": 11758.26,
+  "vehicleId": 74
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 11609.91,
+  "vehicleId": 75
+}, {
+  "currency": "Zloty",
+  "price": 2861.62,
+  "vehicleId": 76
+}, {
+  "currency": "Rupiah",
+  "price": 14105.66,
+  "vehicleId": 77
+}, {
+  "currency": "Rupiah",
+  "price": 7457.51,
+  "vehicleId": 78
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 17929.66,
+  "vehicleId": 79
+}, {
+  "currency": "Shilling",
+  "price": 4716.04,
+  "vehicleId": 80
+}, {
+  "currency": "Dirham",
+  "price": 10364.77,
+  "vehicleId": 81
+}, {
+  "currency": "Euro",
+  "price": 19331.88,
+  "vehicleId": 82
+}, {
+  "currency": "Hryvnia",
+  "price": 18634.15,
+  "vehicleId": 83
+}, {
+  "currency": "Euro",
+  "price": 11818.64,
+  "vehicleId": 84
+}, {
+  "currency": "Shilling",
+  "price": 3051.99,
+  "vehicleId": 85
+}, {
+  "currency": "Yen",
+  "price": 19560.73,
+  "vehicleId": 86
+}, {
+  "currency": "Peso",
+  "price": 19651.86,
+  "vehicleId": 87
+}, {
+  "currency": "Krone",
+  "price": 11586.22,
+  "vehicleId": 88
+}, {
+  "currency": "Dinar",
+  "price": 18830.22,
+  "vehicleId": 89
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 11410.04,
+  "vehicleId": 90
+}, {
+  "currency": "Peso",
+  "price": 14552.22,
+  "vehicleId": 91
+}, {
+  "currency": "Cedi",
+  "price": 8630.11,
+  "vehicleId": 92
+}, {
+  "currency": "Euro",
+  "price": 18914.54,
+  "vehicleId": 93
+}, {
+  "currency": "Real",
+  "price": 18588.89,
+  "vehicleId": 94
+}, {
+  "currency": "Dollar",
+  "price": 17121.28,
+  "vehicleId": 95
+}, {
+  "currency": "Yuan Renminbi",
+  "price": 7250.29,
+  "vehicleId": 96
+}, {
+  "currency": "Dinar",
+  "price": 17176.84,
+  "vehicleId": 97
+}, {
+  "currency": "Dinar",
+  "price": 18538.4,
+  "vehicleId": 98
+}, {
+  "currency": "Koruna",
+  "price": 9990.78,
+  "vehicleId": 99
+}, {
+  "currency": "Koruna",
+  "price": 8669.52,
+  "vehicleId": 100
+}]
